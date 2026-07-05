@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="UrbanLadder">
+    <test name="All Tests">
+        <classes>
+            <class name="tests.BookShelvesTest"/>
+            <class name="tests.HomePageTest"/>
+            <class name="tests.GiftCardTest"/>
+        </classes>
+    </test>
+</suite>

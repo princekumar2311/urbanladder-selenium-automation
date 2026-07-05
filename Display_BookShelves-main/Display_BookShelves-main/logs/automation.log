@@ -1,0 +1,111 @@
+2026-04-29 14:52:57 INFO  tests.BookShelvesTest - ===== TEST SETUP STARTED =====
+2026-04-29 14:53:10 INFO  tests.BookShelvesTest - Browser launched and URL opened
+2026-04-29 14:53:11 INFO  org.example.pages.HomePage - Bookshelves entered as input in search box and triggered for search
+2026-04-29 14:53:11 INFO  org.example.pages.BookShelvesPage - Navigated to BookShelves Listing Page
+2026-04-29 14:53:13 INFO  org.example.pages.BookShelvesPage - All Filter button Clicked and Filter Container Opened
+2026-04-29 14:53:14 INFO  org.example.pages.BookShelvesPage - Storage Type filter clicked
+2026-04-29 14:53:14 INFO  org.example.pages.BookShelvesPage - Storage Type : Open Storage Selected
+2026-04-29 14:53:14 INFO  org.example.pages.BookShelvesPage - Availability Filter Clicked
+2026-04-29 14:53:15 INFO  org.example.pages.BookShelvesPage - Availability : With Storage Selected
+2026-04-29 14:53:15 INFO  org.example.pages.BookShelvesPage - Price Filter Clicked
+2026-04-29 14:53:16 INFO  org.example.pages.BookShelvesPage - Set Max Price to Rs.15000/-
+2026-04-29 14:53:16 INFO  org.example.pages.BookShelvesPage - Apply Button Clicked
+2026-04-29 14:53:22 INFO  org.example.pages.BookShelvesPage - Navigated Back to HomePage
+2026-04-29 14:53:32 INFO  tests.BookShelvesTest - Browser closed
+2026-04-29 14:53:32 INFO  tests.BookShelvesTest - ===== TEST TEARDOWN COMPLETED =====
+2026-04-29 14:53:32 INFO  tests.HomePageTest - ===== TEST SETUP STARTED =====
+2026-04-29 14:53:50 INFO  tests.HomePageTest - Browser launched and URL opened
+2026-04-29 14:53:51 INFO  org.example.pages.HomePage - 
+Living Menu hovered
+2026-04-29 14:53:51 INFO  org.example.pages.HomePage - Living Menu container Visible
+2026-04-29 14:53:51 INFO  org.example.pages.HomePage - Fetching Living Menu Items
+2026-04-29 14:53:59 INFO  tests.HomePageTest - Browser closed
+2026-04-29 14:53:59 INFO  tests.HomePageTest - ===== TEST TEARDOWN COMPLETED =====
+2026-04-29 14:53:59 INFO  tests.GiftCardTest - ===== TEST SETUP STARTED =====
+2026-04-29 14:54:07 INFO  tests.GiftCardTest - Browser launched and URL opened
+2026-04-29 14:54:08 INFO  org.example.pages.HomePage - 
+Gift Card Navigation Link Clicked
+2026-04-29 14:54:08 INFO  org.example.pages.GiftcardsPage - Navigated to Gift Card Page
+2026-04-29 14:54:08 INFO  org.example.pages.GiftcardsPage - Driver Switched to Gift Card Tab
+2026-04-29 14:54:08 INFO  org.example.pages.GiftcardsPage - Wait till everything is visible
+2026-04-29 14:54:16 INFO  org.example.pages.GiftcardsPage - Amount Entered : Rs.1000/-
+2026-04-29 14:54:17 INFO  org.example.pages.GiftcardsPage - Quality Entered : 2
+2026-04-29 14:54:17 INFO  org.example.pages.GiftcardsPage - Theme Selected
+2026-04-29 14:54:20 INFO  org.example.pages.GiftcardsPage - Entered Sender Details
+2026-04-29 14:54:23 INFO  org.example.pages.GiftcardsPage - Entered Receiver Details
+2026-04-29 14:54:30 INFO  tests.GiftCardTest - Browser closed
+2026-04-29 14:54:30 INFO  tests.GiftCardTest - ===== TEST TEARDOWN COMPLETED =====
+2026-04-29 15:39:57 INFO  tests.BookShelvesTest - ===== TEST SETUP STARTED =====
+2026-04-29 15:40:09 INFO  tests.BookShelvesTest - Browser launched and URL opened
+2026-04-29 15:40:11 INFO  org.example.pages.HomePage - Bookshelves entered as input in search box and triggered for search
+2026-04-29 15:40:11 INFO  org.example.pages.BookShelvesPage - Navigated to BookShelves Listing Page
+2026-04-29 15:40:12 INFO  org.example.pages.BookShelvesPage - All Filter button Clicked and Filter Container Opened
+2026-04-29 15:40:12 INFO  org.example.pages.BookShelvesPage - Storage Type filter clicked
+2026-04-29 15:40:13 INFO  org.example.pages.BookShelvesPage - Storage Type : Open Storage Selected
+2026-04-29 15:40:13 INFO  org.example.pages.BookShelvesPage - Availability Filter Clicked
+2026-04-29 15:40:13 INFO  org.example.pages.BookShelvesPage - Availability : With Storage Selected
+2026-04-29 15:40:14 INFO  org.example.pages.BookShelvesPage - Price Filter Clicked
+2026-04-29 15:40:14 INFO  org.example.pages.BookShelvesPage - Set Max Price to Rs.15000/-
+2026-04-29 15:40:15 INFO  org.example.pages.BookShelvesPage - Apply Button Clicked
+2026-04-29 15:40:21 INFO  org.example.pages.BookShelvesPage - Navigated Back to HomePage
+2026-04-29 15:40:32 INFO  tests.BookShelvesTest - Browser closed
+2026-04-29 15:40:32 INFO  tests.BookShelvesTest - ===== TEST TEARDOWN COMPLETED =====
+2026-04-29 15:40:32 INFO  tests.HomePageTest - ===== TEST SETUP STARTED =====
+2026-04-29 15:40:42 INFO  tests.HomePageTest - Browser launched and URL opened
+2026-04-29 15:40:43 INFO  org.example.pages.HomePage - 
+Living Menu hovered
+2026-04-29 15:40:43 INFO  org.example.pages.HomePage - Living Menu container Visible
+2026-04-29 15:40:43 INFO  org.example.pages.HomePage - Fetching Living Menu Items
+2026-04-29 15:40:51 INFO  tests.HomePageTest - Browser closed
+2026-04-29 15:40:51 INFO  tests.HomePageTest - ===== TEST TEARDOWN COMPLETED =====
+2026-04-29 15:40:51 INFO  tests.GiftCardTest - ===== TEST SETUP STARTED =====
+2026-04-29 15:41:00 INFO  tests.GiftCardTest - Browser launched and URL opened
+2026-04-29 15:41:02 INFO  org.example.pages.HomePage - 
+Gift Card Navigation Link Clicked
+2026-04-29 15:41:02 INFO  org.example.pages.GiftcardsPage - Navigated to Gift Card Page
+2026-04-29 15:41:02 INFO  org.example.pages.GiftcardsPage - Driver Switched to Gift Card Tab
+2026-04-29 15:41:02 INFO  org.example.pages.GiftcardsPage - Wait till everything is visible
+2026-04-29 15:41:06 INFO  org.example.pages.GiftcardsPage - Amount Entered : Rs.1000/-
+2026-04-29 15:41:07 INFO  org.example.pages.GiftcardsPage - Quality Entered : 2
+2026-04-29 15:41:07 INFO  org.example.pages.GiftcardsPage - Theme Selected
+2026-04-29 15:41:09 INFO  org.example.pages.GiftcardsPage - Entered Sender Details
+2026-04-29 15:41:11 INFO  org.example.pages.GiftcardsPage - Entered Receiver Details
+2026-04-29 15:41:19 INFO  tests.GiftCardTest - Browser closed
+2026-04-29 15:41:19 INFO  tests.GiftCardTest - ===== TEST TEARDOWN COMPLETED =====
+2026-04-29 15:43:16 INFO  tests.BookShelvesTest - ===== TEST SETUP STARTED =====
+2026-04-29 15:43:26 INFO  tests.BookShelvesTest - Browser launched and URL opened
+2026-04-29 15:43:27 INFO  org.example.pages.HomePage - Bookshelves entered as input in search box and triggered for search
+2026-04-29 15:43:27 INFO  org.example.pages.BookShelvesPage - Navigated to BookShelves Listing Page
+2026-04-29 15:43:29 INFO  org.example.pages.BookShelvesPage - All Filter button Clicked and Filter Container Opened
+2026-04-29 15:43:29 INFO  org.example.pages.BookShelvesPage - Storage Type filter clicked
+2026-04-29 15:43:30 INFO  org.example.pages.BookShelvesPage - Storage Type : Open Storage Selected
+2026-04-29 15:43:30 INFO  org.example.pages.BookShelvesPage - Availability Filter Clicked
+2026-04-29 15:43:30 INFO  org.example.pages.BookShelvesPage - Availability : With Storage Selected
+2026-04-29 15:43:31 INFO  org.example.pages.BookShelvesPage - Price Filter Clicked
+2026-04-29 15:43:31 INFO  org.example.pages.BookShelvesPage - Set Max Price to Rs.15000/-
+2026-04-29 15:43:32 INFO  org.example.pages.BookShelvesPage - Apply Button Clicked
+2026-04-29 15:43:36 INFO  org.example.pages.BookShelvesPage - Navigated Back to HomePage
+2026-04-29 15:43:46 INFO  tests.BookShelvesTest - Browser closed
+2026-04-29 15:43:46 INFO  tests.BookShelvesTest - ===== TEST TEARDOWN COMPLETED =====
+2026-04-29 15:43:46 INFO  tests.HomePageTest - ===== TEST SETUP STARTED =====
+2026-04-29 15:43:53 INFO  tests.HomePageTest - Browser launched and URL opened
+2026-04-29 15:43:55 INFO  org.example.pages.HomePage - 
+Living Menu hovered
+2026-04-29 15:43:55 INFO  org.example.pages.HomePage - Living Menu container Visible
+2026-04-29 15:43:55 INFO  org.example.pages.HomePage - Fetching Living Menu Items
+2026-04-29 15:44:03 INFO  tests.HomePageTest - Browser closed
+2026-04-29 15:44:03 INFO  tests.HomePageTest - ===== TEST TEARDOWN COMPLETED =====
+2026-04-29 15:44:03 INFO  tests.GiftCardTest - ===== TEST SETUP STARTED =====
+2026-04-29 15:44:12 INFO  tests.GiftCardTest - Browser launched and URL opened
+2026-04-29 15:44:13 INFO  org.example.pages.HomePage - 
+Gift Card Navigation Link Clicked
+2026-04-29 15:44:13 INFO  org.example.pages.GiftcardsPage - Navigated to Gift Card Page
+2026-04-29 15:44:13 INFO  org.example.pages.GiftcardsPage - Driver Switched to Gift Card Tab
+2026-04-29 15:44:13 INFO  org.example.pages.GiftcardsPage - Wait till everything is visible
+2026-04-29 15:44:17 INFO  org.example.pages.GiftcardsPage - Amount Entered : Rs.1000/-
+2026-04-29 15:44:17 INFO  org.example.pages.GiftcardsPage - Quality Entered : 2
+2026-04-29 15:44:18 INFO  org.example.pages.GiftcardsPage - Theme Selected
+2026-04-29 15:44:20 INFO  org.example.pages.GiftcardsPage - Entered Sender Details
+2026-04-29 15:44:22 INFO  org.example.pages.GiftcardsPage - Entered Receiver Details
+2026-04-29 15:44:32 INFO  tests.GiftCardTest - Browser closed
+2026-04-29 15:44:32 INFO  tests.GiftCardTest - ===== TEST TEARDOWN COMPLETED =====
